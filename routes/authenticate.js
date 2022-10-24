@@ -20,4 +20,4 @@ async function authen(user, pass)
     return arr;
 }
 
-module.exports = authen;
+module.exports = authenticate;
